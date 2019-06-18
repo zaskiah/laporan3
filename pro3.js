@@ -1,3 +1,3 @@
 function message() {
-	alert("assalamu alaikum");
+	alert("assalamu alaikum sist");
 }

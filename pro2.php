@@ -1,4 +1,4 @@
 <?php
-$r = "assalamu alaikum ";
+$r = "assalamu alaikum gezz";
 echo $r;
 ?>
